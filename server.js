@@ -11,7 +11,7 @@ const port = process.env.PORT || 3000;
 const app = express()
 app.use(cors());
 app.use(express.static('public'))
-app.use(bodyParser.json())
+app.use(bodyParser.json()) // get the toy from the body request
 
 
 // toy CRUDL - REST API

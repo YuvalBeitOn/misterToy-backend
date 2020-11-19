@@ -55,7 +55,8 @@ function _sortByName(a, b) {
 }
 
 function getById(toyId) {
-    const toy = gToys.find(toy => toy._id === +toyId)
+    console.log('toyId:', toyId);
+    const toy = gToys.find(toy => toy._id === toyId)
     console.log('toy by id:', toy);
     return Promise.resolve(toy)
 }
@@ -72,7 +73,6 @@ function remove(toyId) {
 
 function save(toy) {
     if (toy._id) { // update
-
         console.log('updating toy');
         const idx = gToys.findIndex(currtoy => currtoy._id === toy._id)
         gToys.splice(idx, 1, toy)

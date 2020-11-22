@@ -554,3 +554,12 @@ Sun, 22 Nov 2020 10:18:06 GMT - Debug - auth.service - login with email: yuval
 Sun, 22 Nov 2020 11:29:45 GMT - Info - Server is running on port: 3030
 Sun, 22 Nov 2020 11:29:46 GMT - Info - Server is running on port: 3030
 Sun, 22 Nov 2020 12:03:21 GMT - Info - Server is running on port: 3030
+Sun, 22 Nov 2020 12:16:08 GMT - Info - Server is running on port: 3030
+Sun, 22 Nov 2020 12:41:07 GMT - Debug - auth.service - login with email: 22
+Sun, 22 Nov 2020 12:42:03 GMT - Debug - auth.service - login with email: yuval
+Sun, 22 Nov 2020 14:15:04 GMT - Debug - auth.service - login with email: yuval
+Sun, 22 Nov 2020 15:53:40 GMT - Debug - auth.service - login with email: 22
+Sun, 22 Nov 2020 16:16:53 GMT - Debug - auth.service - login with email: 22
+Sun, 22 Nov 2020 18:10:47 GMT - Debug - auth.service - login with email: yuval
+Sun, 22 Nov 2020 18:30:23 GMT - Debug - [{"_id":"5fb8444529da7b4394ad0a33","email":"yuval","username":"yuval","isAdmin":true},{"_id":"5fb93a534301ac0cd424ca2a","email":"bestUser","username":"bestUser"},{"_id":"5fb9441e4301ac0cd424ca3b","email":"22","username":"22"},{"_id":"5fb99bd128959d49e0f8ae3d","email":"1","username":"1"}]
+Sun, 22 Nov 2020 18:36:15 GMT - Info - Server is running on port: 3030

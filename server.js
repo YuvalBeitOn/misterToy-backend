@@ -1,79 +1,63 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const cors = require('cors')
+const path = require('path')
+const cookieParser = require('cookie-parser')
+const session = require('express-session')
 
-const toyService = require('./services/toy-service.js');
+const app = express()
 
-const port = process.env.PORT || 3000;
-
+const http = require('http').createServer(app);
+// const io = require('socket.io')(http);
 
 // Express App Config
-const app = express()
-app.use(cors());
-app.use(express.static('public'))
-app.use(bodyParser.json()) // get the toy from the body request
+app.use(cookieParser())
+app.use(bodyParser.json());
 
 
-// toy CRUDL - REST API
-// LIST - toys
+app.use(session({
+    secret: 'anyrandomstring',
+    resave: false,
+    saveUninitialized: true,
+    // cookie: { secure: false }
+}))
 
-app.get('/api/toy', (req, res) => {
-    const filterBy = req.query;
-    toyService.query(filterBy)
-        .then(toys => {
-            res.json(toys)
-        })
+
+if (process.env.NODE_ENV === 'production') {
+    app.use(express.static(path.resolve(__dirname, 'public')));
+} else {
+    const corsOptions = {
+        origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
+        credentials: true
+    };
+    app.use(cors(corsOptions));
+}
+
+const userRoutes = require('./api/user/user.routes')
+const toyRoutes = require('./api/toy/toy.routes')
+const authRoutes = require('./api/auth/auth.routes')
+const reviewRoutes = require('./api/review/review.routes')
+
+// const connectSockets = require('./api/socket/socket.routes')
+
+// routes
+
+app.use('/api/auth', authRoutes)
+app.use('/api/user', userRoutes)
+app.use('/api/toy', toyRoutes)
+app.use('/api/review', reviewRoutes)
+
+module.exports = app;
+
+// connectSockets(io)
+
+app.get('/**', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
 })
 
-// READ - single toy
-app.get('/api/toy/:id', (req, res) => {
-    const id = req.params.id;
-    toyService.getById(id)
-        .then(toy => {
-            console.log('toy:', toy);
-            res.json(toy)
-        })
-})
-
-// DELETE - toy
-app.delete('/api/toy/:id', (req, res) => {
-    const toyId = req.params.id
-    return toyService.remove(toyId)
-        .then(toys => {
-            // console.log('res from delete then', );
-            res.json(toys)
-        })
-        .catch(err => {
-            res.status(401).send(err)
-        })
-
-})
-
-// CREATE - toy
-app.post('/api/toy', (req, res) => {
-    const toy = req.body;
-    // console.log(req.body);
-    return toyService.save(toy)
-        .then((savedtoy) => {
-            res.json(savedtoy)
-        })
-        .catch(err => console.error(err))
-})
-
-
-// UPDATE - toy
-app.put('/api/toy/:id', (req, res) => {
-    const toy = req.body;
-    console.log('toy in ServerJS update:', toy);
-    toyService.save(toy)
-        .then((savedtoy) => {
-            res.json(savedtoy)
-        })
-        .catch(err => {
-            res.status(401).send(err)
-        })
-})
-
-app.listen(port, () => {
-    console.log(`App listening on port ${port} !`)
+const logger = require('./services/logger.service')
+const port = process.env.PORT || 3030;
+http.listen(port, () => {
+    logger.info('Server is running on port: ' + port)
+        // console.log('Server is running on port:', port);
 });

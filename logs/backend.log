@@ -1,0 +1,550 @@
+Mon, 13 Jan 2020 11:16:58 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:17:11 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:21:30 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:21:41 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:22:17 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:22:35 GMT - Info - Server is running on port: 3000
+Mon, 13 Jan 2020 11:22:46 GMT - Info - Server is running on port: 3000
+Tue, 14 Jan 2020 07:13:19 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:13:39 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:15:23 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:15:46 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:16:05 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:16:09 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:16:29 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:18:13 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:32:53 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:33:17 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:33:18 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:33:23 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:35:26 GMT - Debug - v, v, v
+Tue, 14 Jan 2020 07:35:26 GMT - Debug - auth.service - signup with email: v, username: v
+Tue, 14 Jan 2020 07:35:27 GMT - Debug - auth.route - new account created: {"email":"v","password":"$2b$10$FtA/XOVg6Huj8PYhLHraQuaNG0lxg9gt2S8chBYtfkqPldrlu7DbG","username":"v","_id":"5e1d6f3f30820335201a26af"}
+Tue, 14 Jan 2020 07:35:27 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:35:41 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:35:49 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:37:19 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:37:25 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:37:28 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:38:43 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:39:10 GMT - Error - Cannot get reviews
+Tue, 14 Jan 2020 07:39:50 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:41:44 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:42:07 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:47:41 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:48:09 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 07:52:16 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 07:56:09 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 08:07:18 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 08:11:13 GMT - Debug - auth.service - login with email: v
+Tue, 14 Jan 2020 08:26:02 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 08:26:39 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 11:47:05 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 11:47:27 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 11:49:50 GMT - Info - Server is running on port: 3030
+Tue, 14 Jan 2020 11:53:59 GMT - Debug - canov19, CaNov19, 1
+Tue, 14 Jan 2020 11:53:59 GMT - Debug - auth.service - signup with email: canov19, username: CaNov19
+Tue, 14 Jan 2020 11:53:59 GMT - Debug - auth.route - new account created: {"email":"canov19","password":"$2b$10$0p9ZIPwVpcFILivaKnAT8OxQF2x2VsueXLzBun6uUc/zowTZJpT2S","username":"CaNov19","_id":"5e1dabd709367a5de4707923"}
+Tue, 14 Jan 2020 11:53:59 GMT - Debug - auth.service - login with email: canov19
+Tue, 14 Jan 2020 12:12:16 GMT - Debug - auth.service - login with email: v
+Sat, 16 May 2020 19:05:20 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:34:01 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:36:12 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:36:21 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:38:31 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:38:49 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:40:12 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:40:21 GMT - Debug - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Sun, 17 May 2020 09:41:35 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:41:41 GMT - Debug - [{"_id":"5ddb85150eb62a4aec4d4eba","email":"dd@cc.com","password":"$2b$10$M2zXDsAhFw1W1EyCd/zC9eQyDJTGMeXNLTK8KqVztOC481lGtlQua","username":"cc"},{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","password":"$2b$10$iKRv.8UG/6X0ILsDAMawr.Vi.qztSYeGKxR63VXC.mM6bXnGhwhb6","username":"adminov","balance":100},{"_id":"5ddbc6ae6dd9593018464895","email":"z@z.com","password":"$2b$10$RaElJtt9D5B758t.UuYW3uz1r8QcIwB0sQ9.rY1jv83tze94rn0I.","username":"zzz","isAdmin":true},{"_id":"5ddce6ba154fe965ac1edac3","email":"q@q.com","password":"$2b$10$SBk31zLHTXBJMeymt49pK.PDQtJkz3I9d5a0SGNtvlJEENSOt3Wa6","username":"Que!"},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","password":"$2b$10$X042fAAuUEj0CLA7sD8uPu6F1C4Qg6CBQgRG54SKmoollRxeydWKq","username":"Roki Balbua"},{"_id":"5e1d6f3f30820335201a26af","email":"v","password":"$2b$10$FtA/XOVg6Huj8PYhLHraQuaNG0lxg9gt2S8chBYtfkqPldrlu7DbG","username":"v"},{"_id":"5e1dabd709367a5de4707923","email":"canov19","password":"$2b$10$0p9ZIPwVpcFILivaKnAT8OxQF2x2VsueXLzBun6uUc/zowTZJpT2S","username":"CaNov19"},{"_id":"5e6e0a275f1a402e144ebfd2","email":"kiki@kiki.kiki","password":"$2b$10$QGyWJkk7YCEHLa56.AtXaeOTgU3PqO2eiKxy4GVyrnnLkx4TkrSa2","username":"Kiki"}]
+Sun, 17 May 2020 09:43:04 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:49:46 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:57:26 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 09:58:29 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 10:06:00 GMT - Debug - camar20@c.com, CaMar 20 Empire, 123456
+Sun, 17 May 2020 10:06:00 GMT - Debug - auth.service - signup with email: camar20@c.com, username: CaMar 20 Empire
+Sun, 17 May 2020 10:06:00 GMT - Debug - auth.route - new account created: {"email":"camar20@c.com","password":"$2b$10$BqGJWswlh6ckworR0wGhNeYoaurE7H4NhFHBlr3.gvCWNqJ2w3wqG","username":"CaMar 20 Empire","_id":"5ec10c887f6f1c3ca060c5e5"}
+Sun, 17 May 2020 10:06:00 GMT - Debug - auth.service - login with email: camar20@c.com
+Sun, 17 May 2020 10:13:51 GMT - Debug - [{"_id":"5ddb85150eb62a4aec4d4eba","email":"dd@cc.com","password":"$2b$10$M2zXDsAhFw1W1EyCd/zC9eQyDJTGMeXNLTK8KqVztOC481lGtlQua","username":"cc"},{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","password":"$2b$10$iKRv.8UG/6X0ILsDAMawr.Vi.qztSYeGKxR63VXC.mM6bXnGhwhb6","username":"adminov","balance":100},{"_id":"5ddbc6ae6dd9593018464895","email":"z@z.com","password":"$2b$10$RaElJtt9D5B758t.UuYW3uz1r8QcIwB0sQ9.rY1jv83tze94rn0I.","username":"zzz","isAdmin":true},{"_id":"5ddce6ba154fe965ac1edac3","email":"q@q.com","password":"$2b$10$SBk31zLHTXBJMeymt49pK.PDQtJkz3I9d5a0SGNtvlJEENSOt3Wa6","username":"Que!"},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","password":"$2b$10$X042fAAuUEj0CLA7sD8uPu6F1C4Qg6CBQgRG54SKmoollRxeydWKq","username":"Roki Balbua"},{"_id":"5e1d6f3f30820335201a26af","email":"v","password":"$2b$10$FtA/XOVg6Huj8PYhLHraQuaNG0lxg9gt2S8chBYtfkqPldrlu7DbG","username":"v"},{"_id":"5e1dabd709367a5de4707923","email":"canov19","password":"$2b$10$0p9ZIPwVpcFILivaKnAT8OxQF2x2VsueXLzBun6uUc/zowTZJpT2S","username":"CaNov19"},{"_id":"5e6e0a275f1a402e144ebfd2","email":"kiki@kiki.kiki","password":"$2b$10$QGyWJkk7YCEHLa56.AtXaeOTgU3PqO2eiKxy4GVyrnnLkx4TkrSa2","username":"Kiki"},{"_id":"5ec10c887f6f1c3ca060c5e5","email":"camar20@c.com","password":"$2b$10$BqGJWswlh6ckworR0wGhNeYoaurE7H4NhFHBlr3.gvCWNqJ2w3wqG","username":"CaMar 20 Empire"}]
+Sun, 17 May 2020 10:14:14 GMT - Debug - auth.service - login with email: camar20@c.com
+Sun, 17 May 2020 10:14:16 GMT - Debug - [{"_id":"5ddb85150eb62a4aec4d4eba","email":"dd@cc.com","password":"$2b$10$M2zXDsAhFw1W1EyCd/zC9eQyDJTGMeXNLTK8KqVztOC481lGtlQua","username":"cc"},{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","password":"$2b$10$iKRv.8UG/6X0ILsDAMawr.Vi.qztSYeGKxR63VXC.mM6bXnGhwhb6","username":"adminov","balance":100},{"_id":"5ddbc6ae6dd9593018464895","email":"z@z.com","password":"$2b$10$RaElJtt9D5B758t.UuYW3uz1r8QcIwB0sQ9.rY1jv83tze94rn0I.","username":"zzz","isAdmin":true},{"_id":"5ddce6ba154fe965ac1edac3","email":"q@q.com","password":"$2b$10$SBk31zLHTXBJMeymt49pK.PDQtJkz3I9d5a0SGNtvlJEENSOt3Wa6","username":"Que!"},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","password":"$2b$10$X042fAAuUEj0CLA7sD8uPu6F1C4Qg6CBQgRG54SKmoollRxeydWKq","username":"Roki Balbua"},{"_id":"5e1d6f3f30820335201a26af","email":"v","password":"$2b$10$FtA/XOVg6Huj8PYhLHraQuaNG0lxg9gt2S8chBYtfkqPldrlu7DbG","username":"v"},{"_id":"5e1dabd709367a5de4707923","email":"canov19","password":"$2b$10$0p9ZIPwVpcFILivaKnAT8OxQF2x2VsueXLzBun6uUc/zowTZJpT2S","username":"CaNov19"},{"_id":"5e6e0a275f1a402e144ebfd2","email":"kiki@kiki.kiki","password":"$2b$10$QGyWJkk7YCEHLa56.AtXaeOTgU3PqO2eiKxy4GVyrnnLkx4TkrSa2","username":"Kiki"},{"_id":"5ec10c887f6f1c3ca060c5e5","email":"camar20@c.com","password":"$2b$10$BqGJWswlh6ckworR0wGhNeYoaurE7H4NhFHBlr3.gvCWNqJ2w3wqG","username":"CaMar 20 Empire"}]
+Sun, 17 May 2020 10:14:45 GMT - Debug - [{"_id":"5ddb85150eb62a4aec4d4eba","email":"dd@cc.com","password":"$2b$10$M2zXDsAhFw1W1EyCd/zC9eQyDJTGMeXNLTK8KqVztOC481lGtlQua","username":"cc"},{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","password":"$2b$10$iKRv.8UG/6X0ILsDAMawr.Vi.qztSYeGKxR63VXC.mM6bXnGhwhb6","username":"adminov","balance":100},{"_id":"5ddbc6ae6dd9593018464895","email":"z@z.com","password":"$2b$10$RaElJtt9D5B758t.UuYW3uz1r8QcIwB0sQ9.rY1jv83tze94rn0I.","username":"zzz","isAdmin":true},{"_id":"5ddce6ba154fe965ac1edac3","email":"q@q.com","password":"$2b$10$SBk31zLHTXBJMeymt49pK.PDQtJkz3I9d5a0SGNtvlJEENSOt3Wa6","username":"Que!"},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","password":"$2b$10$X042fAAuUEj0CLA7sD8uPu6F1C4Qg6CBQgRG54SKmoollRxeydWKq","username":"Roki Balbua"},{"_id":"5e1d6f3f30820335201a26af","email":"v","password":"$2b$10$FtA/XOVg6Huj8PYhLHraQuaNG0lxg9gt2S8chBYtfkqPldrlu7DbG","username":"v"},{"_id":"5e1dabd709367a5de4707923","email":"canov19","password":"$2b$10$0p9ZIPwVpcFILivaKnAT8OxQF2x2VsueXLzBun6uUc/zowTZJpT2S","username":"CaNov19"},{"_id":"5e6e0a275f1a402e144ebfd2","email":"kiki@kiki.kiki","password":"$2b$10$QGyWJkk7YCEHLa56.AtXaeOTgU3PqO2eiKxy4GVyrnnLkx4TkrSa2","username":"Kiki"},{"_id":"5ec10c887f6f1c3ca060c5e5","email":"camar20@c.com","password":"$2b$10$BqGJWswlh6ckworR0wGhNeYoaurE7H4NhFHBlr3.gvCWNqJ2w3wqG","username":"CaMar 20 Empire"}]
+Sun, 17 May 2020 10:14:56 GMT - Debug - [{"_id":"5ddb85150eb62a4aec4d4eba","email":"dd@cc.com","password":"$2b$10$M2zXDsAhFw1W1EyCd/zC9eQyDJTGMeXNLTK8KqVztOC481lGtlQua","username":"cc"},{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","password":"$2b$10$iKRv.8UG/6X0ILsDAMawr.Vi.qztSYeGKxR63VXC.mM6bXnGhwhb6","username":"adminov","balance":100},{"_id":"5ddbc6ae6dd9593018464895","email":"z@z.com","password":"$2b$10$RaElJtt9D5B758t.UuYW3uz1r8QcIwB0sQ9.rY1jv83tze94rn0I.","username":"zzz","isAdmin":true},{"_id":"5ddce6ba154fe965ac1edac3","email":"q@q.com","password":"$2b$10$SBk31zLHTXBJMeymt49pK.PDQtJkz3I9d5a0SGNtvlJEENSOt3Wa6","username":"Que!"},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","password":"$2b$10$X042fAAuUEj0CLA7sD8uPu6F1C4Qg6CBQgRG54SKmoollRxeydWKq","username":"Roki Balbua"},{"_id":"5e1d6f3f30820335201a26af","email":"v","password":"$2b$10$FtA/XOVg6Huj8PYhLHraQuaNG0lxg9gt2S8chBYtfkqPldrlu7DbG","username":"v"},{"_id":"5e1dabd709367a5de4707923","email":"canov19","password":"$2b$10$0p9ZIPwVpcFILivaKnAT8OxQF2x2VsueXLzBun6uUc/zowTZJpT2S","username":"CaNov19"},{"_id":"5e6e0a275f1a402e144ebfd2","email":"kiki@kiki.kiki","password":"$2b$10$QGyWJkk7YCEHLa56.AtXaeOTgU3PqO2eiKxy4GVyrnnLkx4TkrSa2","username":"Kiki"},{"_id":"5ec10c887f6f1c3ca060c5e5","email":"camar20@c.com","password":"$2b$10$BqGJWswlh6ckworR0wGhNeYoaurE7H4NhFHBlr3.gvCWNqJ2w3wqG","username":"CaMar 20 Empire"}]
+Sun, 17 May 2020 10:15:51 GMT - Debug - [{"_id":"5ddb85150eb62a4aec4d4eba","email":"dd@cc.com","password":"$2b$10$M2zXDsAhFw1W1EyCd/zC9eQyDJTGMeXNLTK8KqVztOC481lGtlQua","username":"cc"},{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","password":"$2b$10$iKRv.8UG/6X0ILsDAMawr.Vi.qztSYeGKxR63VXC.mM6bXnGhwhb6","username":"adminov","balance":100},{"_id":"5ddbc6ae6dd9593018464895","email":"z@z.com","password":"$2b$10$RaElJtt9D5B758t.UuYW3uz1r8QcIwB0sQ9.rY1jv83tze94rn0I.","username":"zzz","isAdmin":true},{"_id":"5ddce6ba154fe965ac1edac3","email":"q@q.com","password":"$2b$10$SBk31zLHTXBJMeymt49pK.PDQtJkz3I9d5a0SGNtvlJEENSOt3Wa6","username":"Que!"},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","password":"$2b$10$X042fAAuUEj0CLA7sD8uPu6F1C4Qg6CBQgRG54SKmoollRxeydWKq","username":"Roki Balbua"},{"_id":"5e1d6f3f30820335201a26af","email":"v","password":"$2b$10$FtA/XOVg6Huj8PYhLHraQuaNG0lxg9gt2S8chBYtfkqPldrlu7DbG","username":"v"},{"_id":"5e1dabd709367a5de4707923","email":"canov19","password":"$2b$10$0p9ZIPwVpcFILivaKnAT8OxQF2x2VsueXLzBun6uUc/zowTZJpT2S","username":"CaNov19"},{"_id":"5e6e0a275f1a402e144ebfd2","email":"kiki@kiki.kiki","password":"$2b$10$QGyWJkk7YCEHLa56.AtXaeOTgU3PqO2eiKxy4GVyrnnLkx4TkrSa2","username":"Kiki"},{"_id":"5ec10c887f6f1c3ca060c5e5","email":"camar20@c.com","password":"$2b$10$BqGJWswlh6ckworR0wGhNeYoaurE7H4NhFHBlr3.gvCWNqJ2w3wqG","username":"CaMar 20 Empire"}]
+Sun, 17 May 2020 10:19:11 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 10:19:27 GMT - Info - Server is running on port: 3030
+Sun, 17 May 2020 10:19:43 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:23:38 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:25:17 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:25:57 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:26:26 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","password":"$2b$10$iKRv.8UG/6X0ILsDAMawr.Vi.qztSYeGKxR63VXC.mM6bXnGhwhb6","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","password":"$2b$10$X042fAAuUEj0CLA7sD8uPu6F1C4Qg6CBQgRG54SKmoollRxeydWKq","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","password":"$2b$10$Hi4HotHABJOSiY55YKztqO1ft3g1CxZsAqjuFZAtqgTB99nN.k.EK","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","password":"$2b$10$J6x3IX82YapLkRJlZHlKEuG5NIy.WJbOGdUOUF6uXMsb5IsDc77nC","username":"popo"}]
+Thu, 19 Nov 2020 10:27:35 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:27:41 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:29:55 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:35:38 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:35:41 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:37:07 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 10:37:11 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"}]
+Thu, 19 Nov 2020 10:37:32 GMT - Debug - []
+Thu, 19 Nov 2020 10:37:49 GMT - Debug - []
+Thu, 19 Nov 2020 10:38:45 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"}]
+Thu, 19 Nov 2020 10:38:53 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100}]
+Thu, 19 Nov 2020 10:39:16 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100}]
+Thu, 19 Nov 2020 10:39:21 GMT - Debug - []
+Thu, 19 Nov 2020 10:39:25 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100}]
+Thu, 19 Nov 2020 10:44:31 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 12:00:41 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 12:01:03 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 12:05:35 GMT - Info - Server is running on port: 3030
+Thu, 19 Nov 2020 12:08:18 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"}]
+Thu, 19 Nov 2020 12:08:54 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"}]
+Thu, 19 Nov 2020 12:09:26 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"}]
+Thu, 19 Nov 2020 12:10:48 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"}]
+Thu, 19 Nov 2020 12:12:49 GMT - Debug - casep20, casep20, casep20
+Thu, 19 Nov 2020 12:12:49 GMT - Debug - auth.service - signup with email: casep20, username: casep20
+Thu, 19 Nov 2020 12:12:49 GMT - Debug - auth.route - new account created: {"email":"casep20","password":"$2b$10$/9Nzp9vpzfJNFQPAP5Dsw.64OexZANAOnliFAHT9CRblHGRC33Wee","username":"casep20","_id":"5fb6614143f3fb4e3498417e"}
+Thu, 19 Nov 2020 12:12:49 GMT - Debug - auth.service - login with email: casep20
+Thu, 19 Nov 2020 12:14:09 GMT - Debug - auth.service - login with email: casep20
+Thu, 19 Nov 2020 12:14:09 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"},{"_id":"5fb6614143f3fb4e3498417e","email":"casep20","username":"casep20"}]
+Thu, 19 Nov 2020 12:14:45 GMT - Debug - auth.service - login with email: casep20
+Thu, 19 Nov 2020 12:14:49 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"},{"_id":"5fb6614143f3fb4e3498417e","email":"casep20","username":"casep20"}]
+Thu, 19 Nov 2020 12:22:28 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"},{"_id":"5fb6614143f3fb4e3498417e","email":"casep20","username":"casep20"}]
+Thu, 19 Nov 2020 12:23:22 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"},{"_id":"5fb6614143f3fb4e3498417e","email":"casep20","username":"casep20"}]
+Thu, 19 Nov 2020 12:27:47 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"},{"_id":"5fb6614143f3fb4e3498417e","email":"casep20","username":"casep20"}]
+Thu, 19 Nov 2020 12:35:43 GMT - Debug - [{"_id":"5ddbc5f3172fff65d8fef854","email":"admin@a.com","username":"adminov","balance":100},{"_id":"5ddcf730cdd683152cb242d2","email":"roki","username":"Roki Balbua"},{"_id":"5f1942351cd1027e2c75318c","isAdmin":true,"email":"aaa@aaa.com","username":"Adminov Root"},{"_id":"5f59f413b59e1d27ac6b9fe3","email":"po@po.com","username":"popo"},{"_id":"5fb6614143f3fb4e3498417e","email":"casep20","username":"casep20"}]
+Fri, 20 Nov 2020 11:24:20 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 11:27:08 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 11:30:40 GMT - Debug - undefined, yuval, yuval
+Fri, 20 Nov 2020 11:30:40 GMT - Debug - auth.service - signup with email: undefined, username: yuval
+Fri, 20 Nov 2020 11:30:40 GMT - Error - [SIGNUP] email, username and password are required!
+Fri, 20 Nov 2020 11:31:39 GMT - Debug - undefined, yuval, yuval
+Fri, 20 Nov 2020 11:31:39 GMT - Debug - auth.service - signup with email: undefined, username: yuval
+Fri, 20 Nov 2020 11:31:39 GMT - Error - [SIGNUP] email, username and password are required!
+Fri, 20 Nov 2020 11:34:06 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 11:34:15 GMT - Debug - undefined, yuval, yuval
+Fri, 20 Nov 2020 11:34:15 GMT - Debug - auth.service - signup with email: undefined, username: yuval
+Fri, 20 Nov 2020 11:34:16 GMT - Error - [SIGNUP] email, username and password are required!
+Fri, 20 Nov 2020 11:38:19 GMT - Debug - yuval@gjgjg.jjg, yuval, yuval
+Fri, 20 Nov 2020 11:38:19 GMT - Debug - auth.service - signup with email: yuval@gjgjg.jjg, username: yuval
+Fri, 20 Nov 2020 11:38:19 GMT - Debug - auth.route - new account created: {"email":"yuval@gjgjg.jjg","password":"$2b$10$BVNSzu44CALUBLrM6b6yxO0vH6i9OPFiCTFYGOoT4BOF6bVP.fcki","username":"yuval","_id":"5fb7aaab14955832fc2888a8"}
+Fri, 20 Nov 2020 11:38:19 GMT - Debug - auth.service - login with email: yuval@gjgjg.jjg
+Fri, 20 Nov 2020 11:38:19 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 11:38:42 GMT - Debug - flflf@kgkgk.lglg, fff, ffff
+Fri, 20 Nov 2020 11:38:42 GMT - Debug - auth.service - signup with email: flflf@kgkgk.lglg, username: fff
+Fri, 20 Nov 2020 11:38:42 GMT - Debug - auth.route - new account created: {"email":"flflf@kgkgk.lglg","password":"$2b$10$5ie4SztzSCHiITZc/xY2Be/viEhUr93zzPtPQ5WZQ0rqMI5dg1mOm","username":"fff","_id":"5fb7aac214955832fc2888a9"}
+Fri, 20 Nov 2020 11:38:42 GMT - Debug - auth.service - login with email: flflf@kgkgk.lglg
+Fri, 20 Nov 2020 11:38:43 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 11:39:39 GMT - Debug - ddddd, dddd, dddddd
+Fri, 20 Nov 2020 11:39:39 GMT - Debug - auth.service - signup with email: ddddd, username: dddd
+Fri, 20 Nov 2020 11:39:39 GMT - Debug - auth.route - new account created: {"email":"ddddd","password":"$2b$10$QWrQvZYeT3ZnG0WUCQAimOxYokiWp.9Y6Pa6IEFeIbkXlBt/Dox6y","username":"dddd","_id":"5fb7aafb14955832fc2888aa"}
+Fri, 20 Nov 2020 11:39:39 GMT - Debug - auth.service - login with email: ddddd
+Fri, 20 Nov 2020 11:39:39 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 11:40:39 GMT - Debug - fffffff, ffff, ffffff
+Fri, 20 Nov 2020 11:40:39 GMT - Debug - auth.service - signup with email: fffffff, username: ffff
+Fri, 20 Nov 2020 11:40:39 GMT - Debug - auth.route - new account created: {"email":"fffffff","password":"$2b$10$jd3.A8dCJXTLHRHZ8jXntuzUKFb0NmV4i2kE3baDDSXR977.BfcNC","username":"ffff","_id":"5fb7ab3714955832fc2888ab"}
+Fri, 20 Nov 2020 11:40:39 GMT - Debug - auth.service - login with email: fffffff
+Fri, 20 Nov 2020 11:40:39 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 11:45:18 GMT - Debug - ffffff, ffffffff, fffffff
+Fri, 20 Nov 2020 11:45:18 GMT - Debug - auth.service - signup with email: ffffff, username: ffffffff
+Fri, 20 Nov 2020 11:45:18 GMT - Debug - auth.route - new account created: {"email":"ffffff","password":"$2b$10$LoEFgGBFdPjaHodckAKnkOlzxvjrapWzX9ieI3m6dMTBI0a9r0G1e","username":"ffffffff","_id":"5fb7ac4e14955832fc2888ac"}
+Fri, 20 Nov 2020 11:45:18 GMT - Debug - auth.service - login with email: ffffff
+Fri, 20 Nov 2020 11:45:18 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 12:13:12 GMT - Debug - ssssss, ssssss, ssssss
+Fri, 20 Nov 2020 12:13:12 GMT - Debug - auth.service - signup with email: ssssss, username: ssssss
+Fri, 20 Nov 2020 12:13:13 GMT - Debug - auth.route - new account created: {"email":"ssssss","password":"$2b$10$dv2ga/BCGmaNK/hKm8xM6.5tiA7.rDoud7TG1manS550YQ8vx90bu","username":"ssssss","_id":"5fb7b2d914955832fc2888b0"}
+Fri, 20 Nov 2020 12:13:13 GMT - Debug - auth.service - login with email: ssssss
+Fri, 20 Nov 2020 12:13:13 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 12:14:09 GMT - Debug - dddddd, dddd, dddddd
+Fri, 20 Nov 2020 12:14:09 GMT - Debug - auth.service - signup with email: dddddd, username: dddd
+Fri, 20 Nov 2020 12:14:09 GMT - Debug - auth.route - new account created: {"email":"dddddd","password":"$2b$10$yUNcVqrgiqVqzIljQXpxAuW7Dv..ynioi4Z3rRbM40w2mMkLsQmCG","username":"dddd","_id":"5fb7b31114955832fc2888b1"}
+Fri, 20 Nov 2020 12:14:09 GMT - Debug - auth.service - login with email: dddddd
+Fri, 20 Nov 2020 12:14:09 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 12:14:50 GMT - Debug - ddddddddd, ddddd, dddd
+Fri, 20 Nov 2020 12:14:50 GMT - Debug - auth.service - signup with email: ddddddddd, username: ddddd
+Fri, 20 Nov 2020 12:14:50 GMT - Debug - auth.route - new account created: {"email":"ddddddddd","password":"$2b$10$FC9xC0e3QUaVF1wdajS9R.TyBmZKxPBXAxYDQWAMhmMDoPnpfBZnW","username":"ddddd","_id":"5fb7b33a14955832fc2888b2"}
+Fri, 20 Nov 2020 12:14:50 GMT - Debug - auth.service - login with email: ddddddddd
+Fri, 20 Nov 2020 12:14:50 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 13:15:56 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 15:10:58 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 15:26:53 GMT - Debug - ffffffff, ffffffff, ffffffff
+Fri, 20 Nov 2020 15:26:53 GMT - Debug - auth.service - signup with email: ffffffff, username: ffffffff
+Fri, 20 Nov 2020 15:26:53 GMT - Debug - auth.route - new account created: {"email":"ffffffff","password":"$2b$10$CkSyLRrOyxyKGtaMYpsOu.t0QBo2Gy8Me5ZY5PIqaU562E.N7tWNK","username":"ffffffff","_id":"5fb7e03da2e8f429b8250399"}
+Fri, 20 Nov 2020 15:26:53 GMT - Debug - auth.service - login with email: ffffffff
+Fri, 20 Nov 2020 15:26:53 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 16:20:56 GMT - Debug - ככככככככככ, ככככככ, כככככככככ
+Fri, 20 Nov 2020 16:20:56 GMT - Debug - auth.service - signup with email: ככככככככככ, username: ככככככ
+Fri, 20 Nov 2020 16:20:56 GMT - Debug - auth.route - new account created: {"email":"ככככככככככ","password":"$2b$10$nx92qUxVUW.PPHTSiy5kKOTUuCrC9OGeSmlJ116re2G82l4Kmm/ta","username":"ככככככ","_id":"5fb7ece8a2e8f429b825039a"}
+Fri, 20 Nov 2020 16:20:56 GMT - Debug - auth.service - login with email: ככככככככככ
+Fri, 20 Nov 2020 16:20:56 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 16:31:01 GMT - Debug - undefined, undefined, undefined
+Fri, 20 Nov 2020 16:31:01 GMT - Debug - auth.service - signup with email: undefined, username: undefined
+Fri, 20 Nov 2020 16:31:01 GMT - Error - [SIGNUP] email, username and password are required!
+Fri, 20 Nov 2020 16:31:01 GMT - Debug - undefined, undefined, undefined
+Fri, 20 Nov 2020 16:31:01 GMT - Debug - auth.service - signup with email: undefined, username: undefined
+Fri, 20 Nov 2020 16:31:01 GMT - Error - [SIGNUP] email, username and password are required!
+Fri, 20 Nov 2020 16:31:03 GMT - Debug - undefined, undefined, undefined
+Fri, 20 Nov 2020 16:31:03 GMT - Debug - auth.service - signup with email: undefined, username: undefined
+Fri, 20 Nov 2020 16:31:03 GMT - Error - [SIGNUP] email, username and password are required!
+Fri, 20 Nov 2020 16:31:30 GMT - Debug - undefined, undefined, undefined
+Fri, 20 Nov 2020 16:31:30 GMT - Debug - auth.service - signup with email: undefined, username: undefined
+Fri, 20 Nov 2020 16:31:30 GMT - Error - [SIGNUP] email, username and password are required!
+Fri, 20 Nov 2020 16:34:15 GMT - Debug - undefined, undefined, undefined
+Fri, 20 Nov 2020 16:34:15 GMT - Debug - auth.service - signup with email: undefined, username: undefined
+Fri, 20 Nov 2020 16:34:15 GMT - Error - [SIGNUP] email, username and password are required!
+Fri, 20 Nov 2020 16:35:27 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 16:39:17 GMT - Debug - gggd@kgkg.com, grgrrg, rgrr
+Fri, 20 Nov 2020 16:39:17 GMT - Debug - auth.service - signup with email: gggd@kgkg.com, username: grgrrg
+Fri, 20 Nov 2020 16:39:17 GMT - Debug - auth.route - new account created: {"email":"gggd@kgkg.com","password":"$2b$10$KgOb7qL1hQq.YOq5Js8Suey7km8lLTO5ajLXAT0nNokRv1LeXsQ9W","username":"grgrrg","_id":"5fb7f1355e23ea300cc7e2af"}
+Fri, 20 Nov 2020 16:39:17 GMT - Debug - auth.service - login with email: gggd@kgkg.com
+Fri, 20 Nov 2020 16:39:17 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 16:41:01 GMT - Debug - sdds@lglg.coc, fafas, fafa
+Fri, 20 Nov 2020 16:41:01 GMT - Debug - auth.service - signup with email: sdds@lglg.coc, username: fafas
+Fri, 20 Nov 2020 16:41:01 GMT - Debug - auth.route - new account created: {"email":"sdds@lglg.coc","password":"$2b$10$2u/GIv4M5BVNid.GKkfJDOXaaXv3G.d7hPHcfMj3Z8sUn.ETliw8G","username":"fafas","_id":"5fb7f19d5e23ea300cc7e2b0"}
+Fri, 20 Nov 2020 16:41:01 GMT - Debug - auth.service - login with email: sdds@lglg.coc
+Fri, 20 Nov 2020 16:41:01 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 16:47:13 GMT - Debug - affs@kgkg.gkg, affafa, affa
+Fri, 20 Nov 2020 16:47:13 GMT - Debug - auth.service - signup with email: affs@kgkg.gkg, username: affafa
+Fri, 20 Nov 2020 16:47:13 GMT - Debug - auth.route - new account created: {"email":"affs@kgkg.gkg","password":"$2b$10$u2mTfU1Vb3kBVI3QfA/uf.9CLNXeNqkxh5jEibAuGy1yVjGSk4zuu","username":"affafa","_id":"5fb7f3115e23ea300cc7e2b1"}
+Fri, 20 Nov 2020 16:47:13 GMT - Debug - auth.service - login with email: affs@kgkg.gkg
+Fri, 20 Nov 2020 16:47:13 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 16:49:03 GMT - Debug - auth.service - login with email: yuval
+Fri, 20 Nov 2020 16:52:33 GMT - Debug - auth.service - login with email: yuval
+Fri, 20 Nov 2020 16:56:40 GMT - Debug - [{"_id":"5fb7a566db86179b4ce4f8e5","username":"yuval","isAdmin":true},{"_id":"5fb7f19d5e23ea300cc7e2b0","email":"sdds@lglg.coc","username":"fafas"},{"_id":"5fb7f3115e23ea300cc7e2b1","email":"affs@kgkg.gkg","username":"affafa"}]
+Fri, 20 Nov 2020 17:17:16 GMT - Debug - [{"_id":"5fb7a566db86179b4ce4f8e5","username":"yuval","isAdmin":true},{"_id":"5fb7f19d5e23ea300cc7e2b0","email":"sdds@lglg.coc","username":"fafas"},{"_id":"5fb7f3115e23ea300cc7e2b1","email":"affs@kgkg.gkg","username":"affafa"}]
+Fri, 20 Nov 2020 17:22:36 GMT - Debug - auth.service - login with email: sss
+Fri, 20 Nov 2020 17:23:45 GMT - Debug - auth.service - login with email: yuval@gmail.com
+Fri, 20 Nov 2020 17:37:50 GMT - Debug - [{"_id":"5fb7a566db86179b4ce4f8e5","email":"yuval@gmail.com","username":"yuval","isAdmin":true}]
+Fri, 20 Nov 2020 18:05:47 GMT - Debug - yuval@gmail.com, yuval, yuval
+Fri, 20 Nov 2020 18:05:47 GMT - Debug - auth.service - signup with email: yuval@gmail.com, username: yuval
+Fri, 20 Nov 2020 18:05:47 GMT - Debug - auth.route - new account created: {"email":"yuval@gmail.com","password":"$2b$10$P10uUofbFPKjb3vRGxwGHOG4ZYLueoao5kG2P0Ey0f2.Cb0qngqy6","username":"yuval","_id":"5fb8057b5e23ea300cc7e2b2"}
+Fri, 20 Nov 2020 18:05:47 GMT - Debug - auth.service - login with email: yuval@gmail.com
+Fri, 20 Nov 2020 18:05:47 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 18:06:38 GMT - Debug - [{"_id":"5fb8057b5e23ea300cc7e2b2","email":"yuval@gmail.com","username":"yuval"}]
+Fri, 20 Nov 2020 18:15:11 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 18:15:16 GMT - Debug - yuval@gmail.com, yuvalsss, yuvalss
+Fri, 20 Nov 2020 18:15:16 GMT - Debug - auth.service - signup with email: yuval@gmail.com, username: yuvalsss
+Fri, 20 Nov 2020 18:15:16 GMT - Debug - auth.route - new account created: {"email":"yuval@gmail.com","password":"$2b$10$pMj0SbmhgqekRbAEtDujEuafo9xDsfCT83T/3y3jfpxJZbNvmxkgO","username":"yuvalsss","_id":"5fb807b49dd08f3460191d26"}
+Fri, 20 Nov 2020 18:15:16 GMT - Debug - auth.service - login with email: yuval@gmail.com
+Fri, 20 Nov 2020 18:16:37 GMT - Debug - yuval@gmail.coms, yuvalssss, yuvalsss
+Fri, 20 Nov 2020 18:16:37 GMT - Debug - auth.service - signup with email: yuval@gmail.coms, username: yuvalssss
+Fri, 20 Nov 2020 18:16:37 GMT - Debug - auth.route - new account created: {"email":"yuval@gmail.coms","password":"$2b$10$TcoQjRG4YvitrWAPzxwGK.RZIN/2KYeJSM.2gE0XBlYF/XVXExn8q","username":"yuvalssss","_id":"5fb808059dd08f3460191d27"}
+Fri, 20 Nov 2020 18:16:37 GMT - Debug - auth.service - login with email: yuval@gmail.coms
+Fri, 20 Nov 2020 18:18:13 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 18:18:38 GMT - Debug - auth.service - login with email: yuval
+Fri, 20 Nov 2020 18:21:32 GMT - Debug - auth.service - login with email: yuval@gmail.com
+Fri, 20 Nov 2020 18:24:44 GMT - Debug - orel, orel, orel
+Fri, 20 Nov 2020 18:24:44 GMT - Debug - auth.service - signup with email: orel, username: orel
+Fri, 20 Nov 2020 18:24:44 GMT - Debug - auth.route - new account created: {"email":"orel","password":"$2b$10$WN8gVHr5cHseT6rTL2qpTO32QCcTCjaVE7kJJ2owO1J7sa/PqnAle","username":"orel","_id":"5fb809ec5c955d4168c3b7a0"}
+Fri, 20 Nov 2020 18:24:44 GMT - Debug - auth.service - login with email: orel
+Fri, 20 Nov 2020 18:24:44 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 18:25:04 GMT - Debug - auth.service - login with email: orel
+Fri, 20 Nov 2020 18:25:56 GMT - Debug - auth.service - login with email: orel
+Fri, 20 Nov 2020 18:27:42 GMT - Debug - auth.service - login with email: orel
+Fri, 20 Nov 2020 18:29:17 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 18:30:46 GMT - Debug - auth.service - login with email: orel
+Fri, 20 Nov 2020 18:35:29 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 18:35:40 GMT - Debug - auth.service - login with email: orel
+Fri, 20 Nov 2020 18:38:11 GMT - Debug - auth.service - login with email: orel
+Fri, 20 Nov 2020 18:42:17 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 18:42:35 GMT - Debug - auth.service - login with email: orel
+Fri, 20 Nov 2020 18:45:39 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 18:46:22 GMT - Debug - 1, 1, 1
+Fri, 20 Nov 2020 18:46:22 GMT - Debug - auth.service - signup with email: 1, username: 1
+Fri, 20 Nov 2020 18:46:22 GMT - Debug - auth.route - new account created: {"email":"1","password":"$2b$10$qtPIVxjyDmao2X7/6TDkJ.40esRaJwRkysLA7Dh19khNZPXkxJtPG","username":"1","_id":"5fb80efe42864840c847707b"}
+Fri, 20 Nov 2020 18:46:22 GMT - Debug - auth.service - login with email: 1
+Fri, 20 Nov 2020 18:46:22 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 18:48:00 GMT - Debug - 2, 2, 2
+Fri, 20 Nov 2020 18:48:00 GMT - Debug - auth.service - signup with email: 2, username: 2
+Fri, 20 Nov 2020 18:48:00 GMT - Debug - auth.route - new account created: {"email":"2","password":"$2b$10$YO8WQPMOunqJpp0nXcVxYuRTixmnZYEoEra60wK0FhubYV8J7WFcS","username":"2","_id":"5fb80f6042864840c847707c"}
+Fri, 20 Nov 2020 18:48:00 GMT - Debug - auth.service - login with email: 2
+Fri, 20 Nov 2020 18:48:00 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 19:03:15 GMT - Debug - 22, 22, 22
+Fri, 20 Nov 2020 19:03:15 GMT - Debug - auth.service - signup with email: 22, username: 22
+Fri, 20 Nov 2020 19:03:15 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 19:03:15 GMT - Debug - auth.route - new account created: {"email":"22","password":"$2b$10$1NbYs26IyR8EdUQnUkJwhOWyl6Cvs9cYU4BJchly/VkDLzp3hTCQa","username":"22","_id":"5fb812f342864840c847707d"}
+Fri, 20 Nov 2020 19:03:15 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 19:03:15 GMT - Error - [SIGNUP] TypeError: Cannot set property 'user' of undefined
+Fri, 20 Nov 2020 19:03:16 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 19:56:15 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 20:07:04 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 20:07:46 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:05:45 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:07:42 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:11:21 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:11:33 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:11:35 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:11:38 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:11:53 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:12:09 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:12:16 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:12:21 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:12:27 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:13:22 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:13:26 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:13:30 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:13:35 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:13:38 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:13:41 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:13:51 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:14:15 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:14:23 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:14:32 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:19:00 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:19:05 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:19:18 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:19:58 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:20:36 GMT - Debug - [{"_id":"5fb8057b5e23ea300cc7e2b2","email":"yuval@gmail.com","username":"yuval"},{"_id":"5fb807b49dd08f3460191d26","email":"yuval@gmail.com","username":"yuvalsss"},{"_id":"5fb808059dd08f3460191d27","email":"yuval@gmail.coms","username":"yuvalssss"},{"_id":"5fb809ec5c955d4168c3b7a0","email":"orel","username":"orel"},{"_id":"5fb80efe42864840c847707b","email":"1","username":"1"},{"_id":"5fb80f6042864840c847707c","email":"2","username":"2"},{"_id":"5fb812f342864840c847707d","email":"22","username":"22"}]
+Fri, 20 Nov 2020 21:20:49 GMT - Debug - yuval, 111, 111
+Fri, 20 Nov 2020 21:20:49 GMT - Debug - auth.service - signup with email: yuval, username: 111
+Fri, 20 Nov 2020 21:20:49 GMT - Debug - auth.route - new account created: {"email":"yuval","password":"$2b$10$/ge/kWF34xVg.PsrO5y/XOakGQimBOSPq1fViE1sbcCzw6Q0o2q9K","username":"111","_id":"5fb8333198875504bc3bb9bf"}
+Fri, 20 Nov 2020 21:20:49 GMT - Debug - auth.service - login with email: yuval
+Fri, 20 Nov 2020 21:22:20 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:22:32 GMT - Debug - [{"_id":"5fb8057b5e23ea300cc7e2b2","email":"yuval@gmail.com","username":"yuval"},{"_id":"5fb807b49dd08f3460191d26","email":"yuval@gmail.com","username":"yuvalsss"},{"_id":"5fb808059dd08f3460191d27","email":"yuval@gmail.coms","username":"yuvalssss"},{"_id":"5fb809ec5c955d4168c3b7a0","email":"orel","username":"orel"},{"_id":"5fb80efe42864840c847707b","email":"1","username":"1"},{"_id":"5fb80f6042864840c847707c","email":"2","username":"2"},{"_id":"5fb812f342864840c847707d","email":"22","username":"22"},{"_id":"5fb8333198875504bc3bb9bf","email":"yuval","username":"111"}]
+Fri, 20 Nov 2020 21:22:53 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:22:59 GMT - Debug - [{"_id":"5fb8057b5e23ea300cc7e2b2","email":"yuval@gmail.com","username":"yuval"},{"_id":"5fb807b49dd08f3460191d26","email":"yuval@gmail.com","username":"yuvalsss"},{"_id":"5fb808059dd08f3460191d27","email":"yuval@gmail.coms","username":"yuvalssss"},{"_id":"5fb809ec5c955d4168c3b7a0","email":"orel","username":"orel"},{"_id":"5fb80efe42864840c847707b","email":"1","username":"1"},{"_id":"5fb80f6042864840c847707c","email":"2","username":"2"},{"_id":"5fb812f342864840c847707d","email":"22","username":"22"},{"_id":"5fb8333198875504bc3bb9bf","email":"yuval","username":"111"}]
+Fri, 20 Nov 2020 21:24:10 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:24:46 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:37:59 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:38:00 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:38:26 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:40:34 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:40:51 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:40:53 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:41:09 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:41:12 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:41:13 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:41:15 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:41:31 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:41:53 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:42:31 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:43:06 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:51:28 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:51:44 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:52:04 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:52:36 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 21:54:42 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:54:56 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:55:56 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 21:57:09 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:01:16 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:01:29 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:02:08 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:04:12 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:05:22 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:06:30 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:08:37 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:11:06 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:11:24 GMT - Debug - ynon, ynon, ynon
+Fri, 20 Nov 2020 22:11:24 GMT - Debug - auth.service - signup with email: ynon, username: ynon
+Fri, 20 Nov 2020 22:11:24 GMT - Debug - auth.route - new account created: {"email":"ynon","password":"$2b$10$slVyNCE4NCGAGVUswT474efyyHaFIiLW94Ikdz/VJ2wZRJk6GeiSK","username":"ynon","_id":"5fb83f0c29da7b4394ad0a2f"}
+Fri, 20 Nov 2020 22:11:24 GMT - Debug - auth.service - login with email: ynon
+Fri, 20 Nov 2020 22:11:51 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:22:08 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:32:49 GMT - Debug - auth.service - login with email: inon
+Fri, 20 Nov 2020 22:33:15 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:33:41 GMT - Debug - inon, inon, inon
+Fri, 20 Nov 2020 22:33:41 GMT - Debug - auth.service - signup with email: inon, username: inon
+Fri, 20 Nov 2020 22:33:41 GMT - Debug - auth.route - new account created: {"email":"inon","password":"$2b$10$rdX3/KRYdfRgKZHnoebBPe.V7vhpq6JHb0Xd6Xd80Otd8qZ4zynxW","username":"inon","_id":"5fb8444529da7b4394ad0a33"}
+Fri, 20 Nov 2020 22:33:41 GMT - Debug - auth.service - login with email: inon
+Fri, 20 Nov 2020 22:35:19 GMT - Debug - auth.service - login with email: inon
+Fri, 20 Nov 2020 22:36:47 GMT - Debug - auth.service - login with email: inon
+Fri, 20 Nov 2020 22:50:12 GMT - Debug - auth.service - login with email: inon
+Fri, 20 Nov 2020 22:50:58 GMT - Debug - 22, 22, 22
+Fri, 20 Nov 2020 22:50:58 GMT - Debug - auth.service - signup with email: 22, username: 22
+Fri, 20 Nov 2020 22:50:58 GMT - Debug - auth.route - new account created: {"email":"22","password":"$2b$10$F5VjUc55arjEUJd/OyuGMunsLarmOJK6iMLJ61W7fdHal6.b6Sm9C","username":"22","_id":"5fb8485229da7b4394ad0a34"}
+Fri, 20 Nov 2020 22:50:58 GMT - Debug - auth.service - login with email: 22
+Fri, 20 Nov 2020 22:51:09 GMT - Debug - auth.service - login with email: inon
+Fri, 20 Nov 2020 22:53:14 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 23:00:02 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 23:26:22 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 23:27:17 GMT - Debug - auth.service - login with email: inon
+Fri, 20 Nov 2020 23:29:11 GMT - Info - Server is running on port: 3030
+Fri, 20 Nov 2020 23:34:47 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 10:04:03 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 10:05:38 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 10:14:00 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 10:28:02 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 10:39:55 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 10:41:24 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 10:42:04 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 10:42:06 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 10:43:13 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 10:43:14 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 10:43:33 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 10:44:54 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 10:56:58 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 11:15:25 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 12:01:25 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:03:44 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 12:11:09 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:13:43 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:13:47 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:14:02 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 12:14:35 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:16:16 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:22:18 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:22:40 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:23:03 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 12:23:36 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:26:03 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:27:00 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:30:23 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:32:02 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 12:33:16 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:34:53 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 12:36:23 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:37:08 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:40:09 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 12:40:40 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 12:41:22 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 12:44:53 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 12:45:51 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 12:47:44 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:48:48 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:49:03 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 12:49:20 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 13:26:47 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 13:54:59 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 14:08:16 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 14:12:39 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 14:21:58 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 14:31:03 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 14:51:34 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 14:55:27 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 14:56:52 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 15:07:48 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 15:08:42 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 15:09:12 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 15:09:57 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 15:10:27 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 15:38:13 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 15:39:45 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 15:45:40 GMT - Debug - auth.service - login with email: inon
+Sat, 21 Nov 2020 15:48:39 GMT - Debug - [{"_id":"5fb8444529da7b4394ad0a33","email":"inon","username":"inon","isAdmin":true},{"_id":"5fb8485229da7b4394ad0a34","email":"22","username":"22"}]
+Sat, 21 Nov 2020 15:50:52 GMT - Debug - [{"_id":"5fb8444529da7b4394ad0a33","email":"inon","username":"inon","isAdmin":true}]
+Sat, 21 Nov 2020 16:03:30 GMT - Debug - bestUser, bestUser, 123
+Sat, 21 Nov 2020 16:03:30 GMT - Debug - auth.service - signup with email: bestUser, username: bestUser
+Sat, 21 Nov 2020 16:03:31 GMT - Debug - auth.route - new account created: {"email":"bestUser","password":"$2b$10$dhotC0Ka3A3O154ceYZiluDbM9g74sUj1lsbeDTrR3MUiCkrChrmq","username":"bestUser","_id":"5fb93a534301ac0cd424ca2a"}
+Sat, 21 Nov 2020 16:03:31 GMT - Debug - auth.service - login with email: bestUser
+Sat, 21 Nov 2020 16:04:33 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 16:04:50 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 16:05:19 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 16:06:21 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 16:06:25 GMT - Debug - [{"_id":"5fb8444529da7b4394ad0a33","email":"yuval","username":"yuval","isAdmin":true},{"_id":"5fb93a534301ac0cd424ca2a","email":"bestUser","username":"bestUser"}]
+Sat, 21 Nov 2020 16:08:10 GMT - Debug - ddd, ddd, dddd
+Sat, 21 Nov 2020 16:08:10 GMT - Debug - auth.service - signup with email: ddd, username: ddd
+Sat, 21 Nov 2020 16:08:10 GMT - Debug - auth.route - new account created: {"email":"ddd","password":"$2b$10$g45PEHb3Q.L/FM07IsfMQeOTldZaxe5A0wqQYHDU2NaNNL5Lw/Vxa","username":"ddd","_id":"5fb93b6a4301ac0cd424ca2f"}
+Sat, 21 Nov 2020 16:08:10 GMT - Debug - auth.service - login with email: ddd
+Sat, 21 Nov 2020 16:08:20 GMT - Debug - tttttt, ttttttt, ttttt
+Sat, 21 Nov 2020 16:08:20 GMT - Debug - auth.service - signup with email: tttttt, username: ttttttt
+Sat, 21 Nov 2020 16:08:20 GMT - Debug - auth.route - new account created: {"email":"tttttt","password":"$2b$10$QrreFJly8vTMa9Rf.7aCKuJT4GLd8OMkqqZjirXcVuPQwI1aRva2C","username":"ttttttt","_id":"5fb93b744301ac0cd424ca30"}
+Sat, 21 Nov 2020 16:08:20 GMT - Debug - auth.service - login with email: tttttt
+Sat, 21 Nov 2020 16:08:32 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 16:08:35 GMT - Debug - [{"_id":"5fb8444529da7b4394ad0a33","email":"yuval","username":"yuval","isAdmin":true},{"_id":"5fb93a534301ac0cd424ca2a","email":"bestUser","username":"bestUser"},{"_id":"5fb93b6a4301ac0cd424ca2f","email":"ddd","username":"ddd"},{"_id":"5fb93b744301ac0cd424ca30","email":"tttttt","username":"ttttttt"}]
+Sat, 21 Nov 2020 16:13:43 GMT - Debug - [{"_id":"5fb8444529da7b4394ad0a33","email":"yuval","username":"yuval","isAdmin":true},{"_id":"5fb93a534301ac0cd424ca2a","email":"bestUser","username":"bestUser"},{"_id":"5fb93b6a4301ac0cd424ca2f","email":"ddd","username":"ddd"},{"_id":"5fb93b744301ac0cd424ca30","email":"tttttt","username":"ttttttt"}]
+Sat, 21 Nov 2020 16:36:16 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 16:37:11 GMT - Debug - [{"_id":"5fb8444529da7b4394ad0a33","email":"yuval","username":"yuval","isAdmin":true},{"_id":"5fb93a534301ac0cd424ca2a","email":"bestUser","username":"bestUser"}]
+Sat, 21 Nov 2020 16:45:18 GMT - Debug - 22, 22, 22
+Sat, 21 Nov 2020 16:45:18 GMT - Debug - auth.service - signup with email: 22, username: 22
+Sat, 21 Nov 2020 16:45:18 GMT - Debug - auth.route - new account created: {"email":"22","password":"$2b$10$YZOWgIZSUVr4F6LH4Lsca.YZZ9NQ8Np4Gu8EbRPBz1BGfgEW8/pXC","username":"22","_id":"5fb9441e4301ac0cd424ca3b"}
+Sat, 21 Nov 2020 16:45:18 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 20:21:18 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 20:22:03 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 20:38:58 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 20:43:46 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 20:44:28 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 20:44:40 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 20:45:54 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 20:55:38 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 20:55:46 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 20:57:01 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 20:57:10 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 20:57:18 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:00:03 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:00:28 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 21:00:30 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:01:28 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:02:48 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:05:04 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:05:44 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:06:19 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:06:24 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 21:06:26 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:22:22 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:23:14 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:23:24 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:23:34 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:24:14 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:26:29 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:27:02 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:30:00 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:30:06 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:31:53 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:33:41 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:34:21 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:37:45 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:37:50 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:39:10 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:39:15 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:40:41 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:41:06 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:42:51 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:46:43 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:47:51 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:47:59 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 21:48:46 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 21:49:03 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:49:34 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 21:59:41 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:01:32 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:05:56 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:07:08 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:07:22 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 22:13:42 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:14:05 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:14:07 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:14:33 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:15:10 GMT - Debug - auth.service - login with email: yuval
+Sat, 21 Nov 2020 22:16:12 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:16:47 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:19:13 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:19:33 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:19:47 GMT - Debug - 22, 22, 22
+Sat, 21 Nov 2020 22:19:47 GMT - Debug - auth.service - signup with email: 22, username: 22
+Sat, 21 Nov 2020 22:19:47 GMT - Debug - auth.route - new account created: {"email":"22","password":"$2b$10$VSW.9ciIdrsGbhEQcSQsfuj0u79CLxOZBk2YTxmosgBD/HkMg2p2m","username":"22","_id":"5fb992838b703126b037b945"}
+Sat, 21 Nov 2020 22:19:47 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 22:21:41 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:22:12 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:22:20 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 22:39:22 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:40:25 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:41:41 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:45:55 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:46:03 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 22:46:46 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 22:51:04 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:51:07 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 22:51:47 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:55:11 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:55:18 GMT - Error - Cannot get reviews
+Sat, 21 Nov 2020 22:58:15 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 22:59:29 GMT - Debug - 1, 1, 1
+Sat, 21 Nov 2020 22:59:29 GMT - Debug - auth.service - signup with email: 1, username: 1
+Sat, 21 Nov 2020 22:59:29 GMT - Debug - auth.route - new account created: {"email":"1","password":"$2b$10$N6mTTSfk7yHrmXqR7NiIWuXZ7NRQ8F80wgS3M1th271fgwxw9qy3K","username":"1","_id":"5fb99bd128959d49e0f8ae3d"}
+Sat, 21 Nov 2020 22:59:29 GMT - Debug - auth.service - login with email: 1
+Sat, 21 Nov 2020 23:02:28 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:03:46 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:06:42 GMT - Debug - auth.service - login with email: 1
+Sat, 21 Nov 2020 23:09:36 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:13:41 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:16:23 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:19:18 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:20:25 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:37:30 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:38:54 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:40:22 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:40:52 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 23:41:05 GMT - Debug - auth.service - login with email: 1
+Sat, 21 Nov 2020 23:44:54 GMT - Info - Server is running on port: 3030
+Sat, 21 Nov 2020 23:50:43 GMT - Debug - auth.service - login with email: 22
+Sat, 21 Nov 2020 23:59:05 GMT - Debug - auth.service - login with email: yuval

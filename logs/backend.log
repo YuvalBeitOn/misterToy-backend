@@ -548,3 +548,8 @@ Sat, 21 Nov 2020 23:41:05 GMT - Debug - auth.service - login with email: 1
 Sat, 21 Nov 2020 23:44:54 GMT - Info - Server is running on port: 3030
 Sat, 21 Nov 2020 23:50:43 GMT - Debug - auth.service - login with email: 22
 Sat, 21 Nov 2020 23:59:05 GMT - Debug - auth.service - login with email: yuval
+Sun, 22 Nov 2020 06:44:03 GMT - Info - Server is running on port: 3030
+Sun, 22 Nov 2020 10:17:04 GMT - Info - Server is running on port: 3030
+Sun, 22 Nov 2020 10:18:06 GMT - Debug - auth.service - login with email: yuval
+Sun, 22 Nov 2020 11:29:45 GMT - Info - Server is running on port: 3030
+Sun, 22 Nov 2020 11:29:46 GMT - Info - Server is running on port: 3030

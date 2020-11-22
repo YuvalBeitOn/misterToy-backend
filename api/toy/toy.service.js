@@ -62,6 +62,7 @@ async function remove(toyId) {
 
 
 async function save(toy) {
+    console.log('toy in save service:', toy);
     const collection = await dbService.getCollection('toy')
     const id = toy._id
     if (toy._id) { // update

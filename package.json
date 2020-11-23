@@ -5,8 +5,7 @@
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
-        "server:dev": "set NODE_ENV=development & nodemon app.js",
-        "server:prod": "node server.js"
+        "dev": "set NODE_ENV=development & nodemon server.js"
     },
     "author": "",
     "license": "ISC",

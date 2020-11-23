@@ -21,7 +21,7 @@ async function deleteReview(req, res) {
     const review = await reviewService.getById(req.params.id)
     console.log('user in delete review:', user);
     console.log('review from getById:', review);
-    if (!user.isAdmin && !user._id === review.byUserId) return;
+    if (!user.isAdmin && user._id !== review.byUserId) return;
     else {
         try {
             await reviewService.remove(req.params.id)

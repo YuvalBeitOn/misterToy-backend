@@ -11,12 +11,12 @@ module.exports = {
 
 async function query(filterBy) { //filter here
     const collection = await dbService.getCollection('toy')
-        // console.log('collection in toy query:', collection);
     const criteria = _buildCriteria(filterBy);
-    // console.log('criteria in toy query:', criteria);
+    const sort = {
+        [filterBy._sort]: 1
+    };
     try {
-        let sortObj = (filterBy._sort === 'name') ? { name: 1 } : { price: 1 }
-        const toys = await collection.find(criteria).sort(sortObj).toArray()
+        const toys = await collection.find(criteria).sort(sort).toArray()
         return toys
     } catch (err) {
         console.log('ERROR: cannot find toys')

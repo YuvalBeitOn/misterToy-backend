@@ -16,12 +16,20 @@ async function getReviews(req, res) {
 }
 
 async function deleteReview(req, res) {
-    try {
-        await reviewService.remove(req.params.id)
-        res.end()
-    } catch (err) {
-        logger.error('Cannot delete review', err);
-        res.status(500).send({ error: 'cannot delete review' })
+    // console.log('req.params.id:', req.params.id);
+    const user = req.session.user;
+    const review = await reviewService.getById(req.params.id)
+    console.log('user in delete review:', user);
+    console.log('review from getById:', review);
+    if (!user.isAdmin && !user._id === review.byUserId) return;
+    else {
+        try {
+            await reviewService.remove(req.params.id)
+            res.end()
+        } catch (err) {
+            logger.error('Cannot delete review', err);
+            res.status(500).send({ error: 'cannot delete review' })
+        }
     }
 }
 

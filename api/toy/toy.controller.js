@@ -14,7 +14,6 @@ async function getToys(req, res) {
 }
 
 async function deleteToy(req, res) {
-    console.log('req.session.user workkkkkkkkkkk?', req.session.user);
     if (req.session.user.isAdmin) {
         await toyService.remove(req.params.id)
         res.end()
@@ -22,8 +21,6 @@ async function deleteToy(req, res) {
 }
 
 async function updateToy(req, res) {
-    console.log('req.session.user workkkkkkkkkkk?', req.session.user);
-
     if (req.session.user.isAdmin) {
         const toy = req.body;
         await toyService.save(toy)

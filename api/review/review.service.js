@@ -17,12 +17,10 @@ function _buildCriteria(filterBy) {
 async function query(filterBy = {}) {
     // TODO: Build the criteria with $regex
     const criteria = _buildCriteria(filterBy)
-    console.log('criteria in query:', criteria);
     const collection = await dbService.getCollection('review')
         // console.log('collection:', collection);
     try {
         let reviews = await collection.find(criteria).toArray();
-        console.log('reviews before delete:', reviews, '>>>>>>>>>>>');
         reviews = reviews.map(review => {
             delete review.byUser.userId;
             delete review.aboutToy.toyId;
@@ -45,6 +43,17 @@ async function remove(reviewId) {
     }
 }
 
+async function getById(reviewId) {
+    const collection = await dbService.getCollection('review')
+    try {
+        const review = await collection.findOne({ '_id': ObjectId(reviewId) })
+        return review
+
+    } catch (err) {
+        console.log(`ERROR: while finding review ${reviewId}`)
+        throw err;
+    }
+}
 
 async function add(review) {
     review.aboutToy.toyId = ObjectId(review.aboutToy.toyId);
@@ -62,5 +71,6 @@ async function add(review) {
 module.exports = {
     query,
     remove,
-    add
+    add,
+    getById
 }

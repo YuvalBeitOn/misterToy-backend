@@ -47,9 +47,10 @@ app.use('/api/user', userRoutes)
 app.use('/api/toy', toyRoutes)
 app.use('/api/review', reviewRoutes)
 
+connectSockets(io)
+
 module.exports = app;
 
-connectSockets(io)
 
 app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
